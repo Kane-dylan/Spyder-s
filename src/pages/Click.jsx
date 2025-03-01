@@ -13,7 +13,7 @@ const Click = () => {
           repo or connect your account for optimized workflow
         </p>
       <div className="flex items-center justify-center">
-        <img src="/public/Frame 37.png" alt="gitImg" sizes='50' />
+        <img src="/Frame 37.png" alt="gitImg" sizes='50' />
       </div>
       </div>
     </>
