@@ -12,7 +12,7 @@ const Landing = () => {
         track inefficiencies, reduce emissions, and deploy with precision
       </p>
       <div>
-        <img src="/public/Frame 81.png" alt="" />
+        <img src="/src/assets/Frame 81.png" alt="" />
       </div>
       {/* about */}
     </div>

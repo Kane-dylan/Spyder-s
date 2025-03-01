@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="bg-black flex justify-between items-center p-10">
         {/* logo */}
         <div className="flex justify-start overflow-hidden">
-          <img src="/public/title.png" alt="logo" />
+          <img src="/src/assets/title.png" alt="logo" />
         </div>
         {/* headings */}
         <div className="hidden md:flex text-white justify-center items-center">
@@ -18,7 +18,9 @@ const Navbar = () => {
         </div>
         {/* button */}
         <div className="flex justify-end">
-          <button className="bg-[#BDFFAF] py-2 px-4 rounded-full ">Analyze Now</button>
+          <button className="bg-[#BDFFAF] py-2 px-4 rounded-full ">
+            Analyze Now
+          </button>
         </div>
       </nav>
     </>
