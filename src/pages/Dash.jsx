@@ -10,7 +10,7 @@ const Dash = () => {
         <h1>© 2025 OPT/CI. All Rights Reserved</h1>
       </div>
       <div className="flex items-center justify-center">
-        <img src="/src/assets/Frame 79.png" alt="" />
+        <img src="/Frame 79.png" alt="" />
       </div>
     </div>
   );
