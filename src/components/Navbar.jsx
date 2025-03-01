@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="bg-black flex justify-between items-center p-10">
         {/* logo */}
         <div className="flex justify-start overflow-hidden">
-          <img src="/src/assets/title.png" alt="logo" />
+          <img src="/title.png" alt="logo" />
         </div>
         {/* headings */}
         <div className="hidden md:flex text-white justify-center items-center">
