@@ -10,7 +10,7 @@ const Navbar = () => {
         </div>
         {/* headings */}
         <div className="hidden md:flex text-white justify-center items-center">
-          <ul className="flex flex-row space-x-4 text-l opacity-60">
+          <ul className="flex flex-row space-x-8 text-l opacity-60">
             <li>Home</li>
             <li>About</li>
             <li>Services</li>
